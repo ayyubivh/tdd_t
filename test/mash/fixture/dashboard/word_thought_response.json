@@ -1,0 +1,24 @@
+{
+    "statusCode": 200,
+    "statusMessage": "SUCCESS",
+    "resTable1": [
+        {
+            "WORD_ID": "146",
+            "WORD_NAME": "IDIOSYNCRATIC",
+            "WORD_MEANING1": "1 . Something peculiar to an individual",
+            "WORD_MEANING2": "2 . His teaching methods are idiosyncratic but successful.",
+            "HAS_IMG": "0",
+            "WORD_IMAGE": "",
+            "STATUS": "1",
+            "COMP_ID": "200001",
+            "CREATED_BY": "M357751"
+        }
+    ],
+    "resTable2": [
+        {
+            "THOUGHT_ID": "21543",
+            "THOUGHT_OF_THE_DAY_URL": "https://schmadutheme-mash.s3.ap-south-1.amazonaws.com/Thought_UAT20240418_125655254.jpg?X-Amz-Expires=3600&response-content-disposition=inline&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAUJA3RQ7HZZJJJS56%2F20240510%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20240510T054322Z&X-Amz-SignedHeaders=host&X-Amz-Signature=d2534c3a2b9e54c69b12755dfdb8f3102bf1b4406261ea91c9e963dc80bf63d3",
+            "PUBLISHED_DATE": "5/10/2024 12:00:00 AM"
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "TERM_ID": "termId",
+    "TERM_NAME": "termName",
+    "FROM_DATE": "fromDate",
+    "TO_DATE": "toDate"
+}

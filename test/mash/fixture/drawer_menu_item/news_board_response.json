@@ -1,0 +1,19 @@
+{
+    "COMP_ID": "compId",
+    "CONTENT":  "content",
+    "EXT": "ext",
+    "COVERPAGE":  "coverPage",
+    "CREATED_BY": "createdBy",
+    "DESCRIPTION": "description",
+    "NEWS_ID": "newsId",
+    "NEWS_DATE": "newsDate",
+    "NEWS_TITLE": "newsTitle",
+    "USERTYPE": "userType",
+    "ALL_S": "allS",
+    "ALUMNI": "alumni",
+    "PARENT": "parent",
+    "STAFF": "staff",
+    "STUDENT": "student",
+    "CATAGORY": "category",
+    "NEWSTATUS": "newStatus"    
+}

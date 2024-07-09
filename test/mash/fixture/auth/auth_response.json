@@ -1,0 +1,27 @@
+{
+"statusCode": 200,
+"statusMessage": "SUCCESS",
+"resTable": [
+{
+"STUDENT_ID": "studentId",
+"ADMISSION_NO": "535/20",
+"STUDENT_NAME": "admissionNo",
+"COMP_ID":"200001",
+"ROLE_ID": "1",
+"ACTIVE_STATUS": "1",
+"PWD_CHANGE_STATUS": "1",
+"PROFILE_PHOTO": "profile photo",
+"E_MAIL": "email",
+"MOBILE": "1",
+"PARENT_ID": "parentId",
+"ACADEMIC_ID": "1",
+"ACADEMIC_YEAR": "academic year",
+"USR_ID": "user id",
+"DIVISION_ID":"1",
+"CLASS_ID": "1",
+"MEDIUM": "1",
+"USER_TYPE": "1"
+}
+],
+"AccessToken": ""
+}
